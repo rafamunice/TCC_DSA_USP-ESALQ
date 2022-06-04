@@ -1,0 +1,4 @@
+## README
+
+Repositório para o Projeto De TCC em Data Science & Analytics USP ESALQ
+
