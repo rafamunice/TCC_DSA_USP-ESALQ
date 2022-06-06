@@ -6,4 +6,6 @@ href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Atribuiç
 
 Repositório contendo os arquivos e scripts utilizados para o trabalho de conclusão de curso do MBA em Data Science & Analytics do MBA USP-ESALQ.
 
-Por Rafael Municelli Espindola 
+A contribuição da consulta pública na incorporação de novos medicamentos no Rol de Procedimentos e Eventos em Saúde da ANS
+
+Rafael Municelli Espindola 
